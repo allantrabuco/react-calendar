@@ -1,0 +1,46 @@
+{
+    "name": "react-calendar",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@material-ui/core": "^4.2.1",
+        "@material-ui/icons": "^4.2.1",
+        "@types/react": "^16.8.23",
+        "@types/react-dnd": "^3.0.2",
+        "@types/react-dnd-html5-backend": "^3.0.2",
+        "@types/react-intl": "^2.3.18",
+        "@types/react-select": "^3.0.0",
+        "date-fns": "^1.30.1",
+        "react": "^16.8.6",
+        "react-dnd": "^9.3.2",
+        "react-dnd-html5-backend": "^9.3.2",
+        "react-dom": "^16.8.6",
+        "react-intl": "^2.9.0",
+        "react-select": "^3.0.4",
+        "typescript": "^3.5.3"
+    },
+    "devDependencies": {
+        "react-scripts": "3.0.1"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
